@@ -1,0 +1,6 @@
+{
+  "name": "ReciclApp",
+  "description": "Plataforma de reciclaje inteligente, geolocalización de acopio, reportes ecológicos y marketplace de economía circular.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
